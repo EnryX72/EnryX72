@@ -1,7 +1,15 @@
 <div id="header" align="center">
-Hi, i'm Enry!
+  👋 Hi, I'm Enry!
 
-I'm a completely normal guy from Italy with a completely normal life.
+  🤷‍♂️ I'm a completely normal guy from Italy with a completely normal life.
 
-Bye.
+  ✈️ Bye.
+</div>
+
+<div id="badges">
+  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <img src="https://img.shields.io/badge/Reddit-blue?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge"/>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=EnryX72&style=flat&color=blue&label=Profile+Views" alt="ProfileViewCounter"/>
 </div>
