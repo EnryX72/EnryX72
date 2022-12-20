@@ -1,15 +1,32 @@
-<div id="header" align="center">
-  👋 Hi, I'm Enry!
+<div align="center">
 
-  🤷‍♂️ I'm a completely normal guy from Italy with a completely normal life.
+## 👋 Hi, I'm Enry!
+  
+   # 🤷‍♂️ I'm a completely normal guy from Italy with a completely normal life.
+   # 🧳 What do I do? IDK but you can try checking my repositories to see if I did something cool or at least something...
+   # 🌐 Here are my profile stats:
 
-  ✈️ Bye.
-</div>
+![my github stats](https://github-readme-stats.vercel.app/api?username=EnryX72&custom_title=Stats&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
 
-<div id="badges" align="center">
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  <img src="https://img.shields.io/badge/Reddit-orange?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge"/>
-  <br>
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EnryX72&theme=tokyonight&layout=compact&hide_border=true)
+ 
   <img src="https://komarev.com/ghpvc/?username=EnryX72&style=flat&color=blue&label=Profile+Views" alt="ProfileViewCounter"/>
+
+# My Socials
+
+  <div id="badges" align="center">
+
+  <a href="your-youtube-URL">
+      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  
+  <a href="your-twitter-URL">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  
+  <a href="your-reddit-URL">
+      <img src="https://img.shields.io/badge/Reddit-orange?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge"/>
+  </a>
 </div>
+
+ # ✈️ Bye.
