@@ -1,10 +1,9 @@
 <div align="left">
 
 # 👋 Hi!
-  
-   ## 🤷‍♂️ I'm a completely normal guy from Italy with a completely normal life.
-   ## 🧳 What do I do? IDK but you can try checking my repositories to see if I did something cool or at least something...
-   ## 🌐 Here are my profile stats:
+🤷‍♂️ I'm a completely normal guy from Italy with a completely normal life.<br>
+🧳 What do I do? IDK but you can try checking my repositories to see if I did something cool or at least something...<br>
+🌐 Here are my profile stats:
    
 <div align="center">  
 
@@ -32,5 +31,3 @@
       <img src="https://img.shields.io/badge/Reddit-orange?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge"/>
   </a>
 </div>
-
-## ✈️ Bye.
