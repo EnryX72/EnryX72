@@ -59,7 +59,7 @@
 <div align="center">
     <b style = {font-weight: 600}>Visitors Count</b>
    <br>
-   <img src="https://komarev.com/ghpvc/?username=EnryX72&style=flat&color=blue&label=Profile+Views" alt="ProfileViewCounter"/>
+   <img src="https://komarev.com/ghpvc/?username=EnryX72&style=for-the-badge&color=blue&label=Profile+Views" alt="ProfileViewCounter"/>
 </div>
 
 ## &nbsp; &nbsp; 📥 &nbsp; Connnect with Me
